@@ -21,7 +21,7 @@ switch ($page) {
         break;
 
     case 'cat':
-        $tabCat = catList();
+
         include 'view/cat.php';
 
         break;
